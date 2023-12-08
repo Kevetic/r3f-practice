@@ -46,4 +46,7 @@ nav ul {
   left: 50%;
   top: 15%;
   transform: translate(-50%, -25%);
+  width: 100%;
+  margin: auto;
+  text-align: center;
 }
